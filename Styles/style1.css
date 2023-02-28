@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Abel;
+    src: url(../fonts/Abel-Regular.ttf);
+}
+
+.container{
+    font-family: Abel;
+}
+
+.c1{
+    background-color: rgb(120, 33, 202) !important;
+    background-image: url(../img/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 85%;
+    background-size: 17%;
+    background-blend-mode: unset;
+}
+
+.textoabajo{
+    color: rgba(255, 255, 255, 0.692) !important;
+}
+
+.textoabajo1{
+    color: rgba(37, 34, 61, 0.692);
+}
+
